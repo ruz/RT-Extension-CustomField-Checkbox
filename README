@@ -1,6 +1,6 @@
 NAME
-    Extension::CustomField::Checkbox - extension for RT to add checkboxes
-    and radio buttons based custom fields
+    RT::Extension::CustomField::Checkbox - extension for RT to add
+    checkboxes and radio buttons based custom fields
 
 DESCRIPTION
     Install it, register within plugin in the config. Enjoy.
