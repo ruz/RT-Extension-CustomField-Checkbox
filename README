@@ -1,0 +1,13 @@
+NAME
+    Extension::CustomField::Checkbox - extension for RT to add checkboxes
+    and radio buttons based custom fields
+
+DESCRIPTION
+    Install it, register within plugin in the config. Enjoy.
+
+AUTHOR
+    Ruslan Zakirov <Ruslan.Zakirov@gmail.com>
+
+LICENSE
+    Under the same terms as perl itself.
+
