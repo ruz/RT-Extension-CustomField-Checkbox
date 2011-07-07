@@ -37,6 +37,9 @@ Hopefuly in RT 4.0.2 all this would be automated.
 
 # code goes here
 
+die "\n\nYou don't need this extension. RT 4.0 and newer has this functionality build in. Read documentation for upgrade instructions.\n\n"
+    if $RT::VERSION =~ /^[4-9]\./;
+
 use RT::CustomField;
 $RT::CustomField::FieldTypes{'SelectCheckbox'} = [
     'Check multiple values',    # loc
