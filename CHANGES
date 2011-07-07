@@ -1,3 +1,10 @@
+0.03 2011-07-07
+
+    * ATTENTION: RT4 has this functionality built in
+    * make sure ext can not be installed on RT4
+    * make sure ext can not be enabled on RT4
+    * document upgrade procedure
+
 0.02 2009-07-03
 
     * typo in the doc that mess CPAN's indexer
